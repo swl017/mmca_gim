@@ -24,7 +24,7 @@ MMCA - The Ghost in the Machine \
     ```bash
     ssh19scout
     ```
-    > User/IP 세팅: (TX2) usrg@192.168.1.22 (laptop) <whatever>@192.168.1.3
+    > User/IP 세팅: (TX2) usrg@192.168.1.22 (laptop) (whatever)@192.168.1.3
 3. (*Launch command*) 탭 1에서 각 창에 다음을 입력.(10개)
     ```bash
     ping 192.168.1.22
