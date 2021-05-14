@@ -15,7 +15,7 @@ MMCA - The Ghost in the Machine \
 ### 드론 부팅
 1. 배터리 1 쌍 준비. 전압 체크해서 90% 이상이면 비행 가능.
 3. 드론에 배터리 연결.
-4. 벨크로를 이용해 단단히 고정. ***무게 밸런스 중요***. ![battery](./img/mmca_battery_align.jpg)
+4. 벨크로를 이용해 단단히 고정. ***무게 밸런스 중요***.(아래 사진 참고) ![battery](./img/mmca_battery_align.jpg)
 
 
 ### 모니터링 랩탑 셋업
@@ -54,7 +54,7 @@ MMCA - The Ghost in the Machine \
 1. 배터리 체크. 90% 이상이면 비행 가능.
 2. 카메라 잘 붙어있는지 확인.
 3. 전선 정리.
-4. 드론을 정확한 위치에 놓기. **랜딩기어를 바닥 표시에 정확히 맞추기.** ![landing_gear](./img/mmca_landing_gear_align.jpg)
+4. 드론을 정확한 위치에 놓기. **랜딩기어를 바닥 표시에 정확히 맞추기.**(아래 사진 참고) ![landing_gear](./img/mmca_landing_gear_align.jpg)
 5. (*astar*) **시작 위치에서 드론의 왼쪽 후방(약 1m 거리)에 occupancy가 생기지 않도록 확인.**
    > 대처법: 그물이 라이다에 안잡히게 멀리 밀기.
 
