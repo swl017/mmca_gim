@@ -26,7 +26,7 @@ MMCA - The Ghost in the Machine \
     ```
     > 참고)
     > ```bash
-    > alias ssh19scout='ssh nvidia@192.168.1.22'
+    > alias sshscout='ssh nvidia@192.168.1.22'
     > ```
 3. (*Launch command*) 탭 1에서 각 창에 다음을 입력.(10개). *1_(tab) 2_(tab) 하면 되는데 정확한 내용은 수정할 예정*
     ```bash
