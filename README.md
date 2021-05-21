@@ -22,7 +22,7 @@ MMCA - The Ghost in the Machine \
 1. (*터미널 준비*) 터미널 탭 2개를 엶. 탭 1은 10개, 탭 2는 2개로 나눔.
 2. (*SSH 로그인*) 탭 1에서 드론의 TX2에 다음 alias를 이용해 SSH로 로그인
     ```bash
-    ssh19scout
+    sshscout
     ```
     > 참고)
     > ```bash
@@ -35,11 +35,11 @@ MMCA - The Ghost in the Machine \
     1_teraranger
     2_mavros
     3_cartographer
-    4_mission
+    4_offboard
     5_tf_listener
     6_distance
     7_astar
-    8_offboard
+    8_mission
     ```
 4.  탭 2에서 각 창에 다음을 입력(2개)
     ```bash
